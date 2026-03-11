@@ -1,0 +1,7 @@
+D:\.net workshop\day2_oops_task\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\.net workshop\day2_oops_task\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\.net workshop\day2_oops_task\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\.net workshop\day2_oops_task\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\.net workshop\day2_oops_task\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\.net workshop\day2_oops_task\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\.net workshop\day2_oops_task\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

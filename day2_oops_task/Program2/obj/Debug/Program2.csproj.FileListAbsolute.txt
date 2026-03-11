@@ -1,0 +1,7 @@
+D:\.net workshop\day2_oops_task\Program2\bin\Debug\Program2.exe.config
+D:\.net workshop\day2_oops_task\Program2\bin\Debug\Program2.exe
+D:\.net workshop\day2_oops_task\Program2\bin\Debug\Program2.pdb
+D:\.net workshop\day2_oops_task\Program2\obj\Debug\Program2.csproj.AssemblyReference.cache
+D:\.net workshop\day2_oops_task\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+D:\.net workshop\day2_oops_task\Program2\obj\Debug\Program2.exe
+D:\.net workshop\day2_oops_task\Program2\obj\Debug\Program2.pdb
